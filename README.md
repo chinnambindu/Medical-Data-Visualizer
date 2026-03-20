@@ -48,10 +48,4 @@ cholesterol, gluc, smoke, alco, active, cardio
 pip install pandas matplotlib seaborn numpy
 ```
 
-## Usage
-
-```bash
-python main.py
-# outputs catplot.png and heatmap.png
-```
 
